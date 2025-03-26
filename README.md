@@ -1,4 +1,4 @@
-Welcome to the DATA VISUALIZATION AND COMMUNICATION  Class!
+Welcome to the DATA VISUALIZATION AND COMMUNICATION  Data 110 Class!
 This repository outlines our 15-week journey through key aspects of data visualization. Some materials may need updates from previous courses.
 
 ---
@@ -12,7 +12,7 @@ This repository outlines our 15-week journey through key aspects of data visuali
 - Focus on collecting and visualizing data using Google Forms.
 - Introduction to GitHub and Markdown for documentation.
 
-### [Week 2: Data Visualization with Google Sheets and Introduction to Google Colab and Python Basics](Week2.md)
+### [Week 2: Scatter Plot, Google Colab](Week2.md)
 **Summary**: 
 - **Google Colab**: Get acquainted with **Google Colab** as a powerful cloud-based platform for writing and executing Python code. Learn how to create and manage notebooks for data analysis and visualization.
 
